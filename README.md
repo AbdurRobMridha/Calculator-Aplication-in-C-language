@@ -1,9 +1,9 @@
 # Calculator-Aplication-in-C-language
-This is my first project in 1st year of my university( Jahangirnagar University )
-In the below section , I will explain some feature of my Calculator Application project that I done by C language.
-
-Calculator Application
-This is a C-based console application that provides a variety of mathematical operations and calculations. The application features a menu-driven interface, allowing users to choose from several mathematical functions, including addition, subtraction, multiplication, division, equation solving, miscellaneous calculations, and statistics.
+This is my first project in 1st year of my university( Jahangirnagar University )<br>
+<br>In the below section , I will explain some feature of my Calculator Application project that I done by C language.
+<br>
+<br>Calculator Application
+<br>This is a C-based console application that provides a variety of mathematical operations and calculations. The application features a menu-driven interface, <br>allowing users to choose from several mathematical functions, including addition, subtraction, multiplication, division, equation solving, miscellaneous <br>calculations, and statistics.
 
 Features:
 1. Main Menu<br>
